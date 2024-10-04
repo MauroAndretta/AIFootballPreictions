@@ -247,6 +247,12 @@ If you want to contribute to this project, please fork the repository and submit
 
 This project is licensed under the [BSD-3-Claude license](LICENSE) - see the `LICENSE` file for details.
 
+## Support
+
+If you find this project helpful and would like to support its development, you can buy me a coffee! Your support is greatly appreciated! ☕️😊
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="mauro_andretta" data-color="#FF5F5F" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 ## Disclaimer
 
 This project is intended for educational and informational purposes only. While the AIFootballPredictions system aims to provide accurate predictions for football matches, it is important to understand that predictions are inherently uncertain and should not be used as the sole basis for any decision-making, including betting or financial investments.
