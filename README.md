@@ -83,7 +83,8 @@ PREDICTIONS DONE: 2024-10-04
 9. [Supported Leagues](#supported-leagues)
 10. [Contributing](#contributing)
 11. [License](#license)
-12. [Disclaimer](#disclaimer)
+12. [Support](#support)
+13. [Disclaimer](#disclaimer)
 
 ## Project Overview
 
@@ -251,7 +252,7 @@ This project is licensed under the [BSD-3-Claude license](LICENSE) - see the `LI
 
 If you find this project helpful and would like to support its development, you can buy me a coffee! Your support is greatly appreciated! ☕️😊
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="mauro_andretta" data-color="#FF5F5F" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/mauro_andretta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Disclaimer
 
